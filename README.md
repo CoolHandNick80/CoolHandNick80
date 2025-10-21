@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoolHandNick80
-- 👀 I’m interested in game developement
-- 🌱 I’m currently learning Unreal Engine 4
-- 💞️ I’m looking to collaborate on game development
+- 👀 I’m a gameplay programmer
+- 🌱 I’m proficient in Unreal Engine and C++
+- 💞️ I’m open to work
 - 📫 How to reach me: niccol80@hotmail.com
 
 <!---
