@@ -53,10 +53,10 @@ Fascinated by the potential of video games as a means of expression, I am focuse
 
 ---
 
-### 🛡️ **TDW (Tower Defense Work)**
+### 🛡️ **TDW (Gameplay Ability System Implementation)**
 *   **Repository:** [CoolHandNick80/TDW](https://github.com)
-*   **Description:** Core logic and pathfinding/placement algorithms for a Tower Defense prototype.
-*   **Technical Focus:** Wave management, node-based enemy movement algorithms, and architectural patterns designed to decouple attack systems.
+*   **Description:** A dedicated project showcasing the implementation and architecture of Unreal Engine's **Gameplay Ability System (GAS)**.
+*   **Technical Focus:** Configuring Attribute Sets, binding input to Gameplay Abilities, handling Gameplay Effects (buffs, debuffs, damage calculations), and structuring scalable C++ foundations for complex character abilities.
 
 ---
 
